@@ -1,0 +1,28 @@
+h1{
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    margin: 10px;
+}
+
+h2{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    
+}
+
+h3{
+    background-color: skyblue;
+    color: rgb(51, 1, 51);
+    text-decoration: underline;
+    text-align: right;
+    padding: 4px;
+    margin: 10px;
+}
